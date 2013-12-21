@@ -29,4 +29,4 @@ folder2iso-alfredworkflow is licensed under the MIT (Expat) license.
 ### Special Thanks
 
 * goes to David Ferguson who helped me to get my script working within Fredl (aka Alfredapp).
-* the great workflow icon is created by https://www.iconfinder.com/Lexter
+* goes to Honza Dousek who has created the great workflow icon (https://www.iconfinder.com/Lexter)
